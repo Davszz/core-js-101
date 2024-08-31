@@ -35,9 +35,10 @@ function concatenateStrings(value1, value2) {
  *   'b'     => 1
  *   ''      => 0
  */
-function getStringLength(/* value */) {
-  throw new Error('Not implemented');
+function getStringLength(name) {
+  return name.length;
 }
+
 
 /**
  * Returns the result of string template and given parameters firstName and lastName.
