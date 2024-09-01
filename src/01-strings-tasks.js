@@ -103,7 +103,7 @@ function removeLeadingAndTrailingWhitespaces(value) {
 }
 
 /**
- * Returns a string that repeated the specified number of times.
+ * Returns a string that repezated the specified number of times.
  *
  * @param {string} value
  * @param {string} count
